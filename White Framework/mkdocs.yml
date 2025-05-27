@@ -1,0 +1,14 @@
+site_name: White Framework
+nav:
+  - Home: index.md
+  - Reference:
+      - Core: reference/core.md
+      - Teams: reference/teams.md
+      - Models: reference/models.md
+      - Providers: reference/providers.md
+      - State: reference/state.md
+theme:
+  name: material
+repo_url: ''
+plugins:
+  - search
